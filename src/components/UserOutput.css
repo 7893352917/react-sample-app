@@ -1,0 +1,14 @@
+.user-output{
+    width:60%; 
+    padding:5px;
+    margin:8px;
+    border: 2px solid maroon;
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+
+.name-style{
+    color: fuchsia;
+    font-style: italic;
+}
